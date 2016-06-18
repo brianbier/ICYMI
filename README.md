@@ -1,5 +1,4 @@
 # ICYMI (In case you missed it)
 
-**See it Live** 
-[ICYMI](http://www.brianbier.co/ICYMI/)
+##[See it Live](http://www.brianbier.co/ICYMI/)
 
